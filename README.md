@@ -21,16 +21,12 @@
   <span><a href="https://p-uyoung.github.io" target='_blank'><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://p-uyoung.github.io"/></a></span>
 </p>
 
-<h3 align="left">🌱 My Github 🌱 </h3>
+<h2 align="left"> My Github </h2>
 <p align="left">
-  <span><a href="https://github.com/anuraghazra/github-readme-stats" target='_blank'>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=serajang99&show_icons=true&theme=radical&hide=issues&line_height=24&include_all_commits=True&hide_border=True" />
+  <span><a href="https://github.com/P-uyoung/github-readme-stats" target='_blank'>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=P-uyoung&show_icons=true&theme=radical&hide=issues&line_height=24&include_all_commits=True&hide_border=True" />
     </a></span>
-  <span><a href="https://github.com/anuraghazra/github-readme-stats" target='_blank'>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serajang99&layout=compact&theme=radical&langs_count=6&hide_border=True&card_width=260" />
+  <span><a href="https://github.com/P-uyoung/github-readme-stats" target='_blank'>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-uyoung&layout=compact&theme=radical&langs_count=6&hide_border=True&card_width=260" />
     </a></span>
-  <br/> 
-  <a href="https://github.com/Platane/snk" target='_blank'>
-    <img align="center" src="https://github.com/serajang99/serajang99/blob/output/github-contribution-grid-snake.svg" />
-  </a>
 </p>
