@@ -11,6 +11,7 @@
   <span><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"></span>
   <span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B"></span>
+  <span><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"></span>
   <br/>
   <b>- Database : </b>
   <span><img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"></span>
