@@ -4,8 +4,10 @@
 <p align="left">
   <b>- Data Science : </b>
   <span><img src="https://img.shields.io/badge/Python-05122A?style=flat-square&logo=python"/></span>
-  <span><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=Java"></span>
   <span><img src="https://img.shields.io/badge/Matlab-990000?style=flat-square&logo=matlab"></span>
+  <span><img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"></span>
+  <span><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"></span>
+  <span><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=Java"></span>
   <span><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"></span>
   <span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B"></span>
