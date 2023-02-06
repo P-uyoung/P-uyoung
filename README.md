@@ -36,9 +36,3 @@
 <p align="left">
   <span><a href="https://p-uyoung.github.io" target='_blank'><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://p-uyoung.github.io"/></a></span>
   <span><a href="mailto:uyoung@snu.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=uyoung@snu.ac.kr"/></a></span>
-  
-  
-<h2 align="left">Hobbies&interests</h2>
-<p align="left">
-수영🏊‍♀️,   테니스🎾
-</p>
