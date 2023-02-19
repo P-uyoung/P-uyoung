@@ -1,4 +1,4 @@
-<h3 align="center">&nbsp; 안녕하세요, 데이터 사이언티스트 개발자 박우영입니다. ☺️</h3>
+<h3 align="center">&nbsp; 안녕하세요, ML Engineer 개발자 박우영입니다. ☺️</h3>
 
 <h2 align="left">Tech Stack</h2>
 <p align="left">
