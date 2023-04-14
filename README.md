@@ -1,8 +1,8 @@
 
 
-<h3 align="center">&nbsp; 안녕하세요, ML Engineer 개발자 박우영입니다. ☺️</h3>
+<h3 align="center">&nbsp; 안녕하세요, 개발자 박우영입니다. ☺️</h3>
 
-### [(포트폴리오 링크) 보러가기](https://www.notion.so/uyoung0/e1048ab701d949f9a11f14a304150045)
+<!-- ### [(포트폴리오 링크) 보러가기](https://www.notion.so/uyoung0/e1048ab701d949f9a11f14a304150045) -->
 
 <h2 align="left">Tech Stack</h2>
 <p align="left">
