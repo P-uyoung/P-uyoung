@@ -3,7 +3,12 @@
 <h3 align="center">&nbsp; 안녕하세요, 개발자 박우영입니다. ☺️</h3>
 
 <!-- ### [(포트폴리오 링크) 보러가기](https://www.notion.so/uyoung0/e1048ab701d949f9a11f14a304150045) -->
+<h2 align="left">Links</h2>
+<p align="left">
+  <span><a href="https://p-uyoung.github.io" target='_blank'><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://p-uyoung.github.io"/></a></span>
+  <span><a href="mailto:uyoung@snu.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=uyoung@snu.ac.kr"/></a></span>
 
+  
 <h2 align="left">Tech Stack</h2>
 <p align="left">
   <b>- Data Science : </b>
@@ -35,8 +40,3 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-uyoung&layout=compact&theme=radical&langs_count=6&hide_border=True&card_width=260" />
     </a></span>
 </p>
-
-<h2 align="left">Links</h2>
-<p align="left">
-  <span><a href="https://p-uyoung.github.io" target='_blank'><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://p-uyoung.github.io"/></a></span>
-  <span><a href="mailto:uyoung@snu.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=uyoung@snu.ac.kr"/></a></span>
