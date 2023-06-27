@@ -31,6 +31,7 @@
   <span><img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion"></span> 
 </p>
 
+<!--
 <h2 align="left"> My Github </h2>
 <p align="left">
   <span><a href="https://github.com/P-uyoung/github-readme-stats" target='_blank'>
@@ -40,3 +41,4 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-uyoung&layout=compact&theme=radical&langs_count=6&hide_border=True&card_width=260" />
     </a></span>
 </p>
+-->
