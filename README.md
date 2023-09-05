@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=400&text=Hello%2&desc=I'm%20Woo%20Young)
 
-
+<!--
 ![P-uyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=P-uyoung&show_icons=true)
-
+-->
 
 ## :mailbox_with_mail: Contacts & Blog
 
