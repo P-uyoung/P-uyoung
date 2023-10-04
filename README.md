@@ -4,6 +4,7 @@
 ![P-uyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=P-uyoung&show_icons=true)
 -->
 
+<!--
 ## :mailbox_with_mail: Contacts & Blog
 
 <p>
@@ -11,3 +12,4 @@
    <a href="https://p-uyoung.github.io" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-blue?style=flat&logoColor=white)"/></a>
 
 </p>
+-->
