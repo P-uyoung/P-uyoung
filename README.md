@@ -1,33 +1,12 @@
-<h1 align="center">Hello, I'm wooyoung park<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/P-uyoung">
-          <img src="https://readme-typing-svg.herokuapp.com?lines=AI Engineer;React.js%20|%20Node.js%20|%20Javascript%20|%20Python;Staying-updated-and-staying-an-active-learner&center=true&width=600&height=50">
-  </a>
-</p>
-
-<hr/>
-
-<h4 align="center">
-I'm a Student Developer from South Korea, I am passionate about technology. <br />
-</h4>
-<hr/>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=400&text=Hello%2&desc=I'm%20Woo-young%20Park)
+<!--
+![P-uyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=P-uyoung&show_icons=true)
+-->
 
 <!--
-## 🔥 Github Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aptheparker&show_icons=true&theme=algolia" alt="GitHub Stats">
+## :mailbox_with_mail: Contacts & Blog
+<p>
+  <a href="mailto:uyoung@snu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+   <a href="https://p-uyoung.github.io" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-blue?style=flat&logoColor=white)"/></a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aptheparker&theme=algolia" alt="GitHub Streak Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aptheparker&theme=algolia&layout=compact" alt="Top Languages">
-</p>
-
-<br>
-<hr/>
-
 -->
