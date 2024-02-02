@@ -1,4 +1,4 @@
-안녕하세요~ AI, BE 개발하는 박우영입니다!
+안녕하세요! AI, BE 개발하는 박우영입니다!
 
 <!--
 ![P-uyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=P-uyoung&show_icons=true)
